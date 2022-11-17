@@ -1,6 +1,6 @@
-package com.maksim.tebenkov.spring_boot_rest.dao;
+package com.maksi362880.spring_boot_rest.dao;
 
-import com.maksim.tebenkov.spring_boot_rest.entity.Employee;
+import com.maksi362880.spring_boot_rest.entity.Employee;
 
 import java.util.List;
 

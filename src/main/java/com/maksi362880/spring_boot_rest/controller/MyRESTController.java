@@ -1,7 +1,7 @@
-package com.maksim.tebenkov.spring_boot_rest.controller;
+package com.maksi362880.spring_boot_rest.controller;
 
-import com.maksim.tebenkov.spring_boot_rest.entity.Employee;
-import com.maksim.tebenkov.spring_boot_rest.service.EmployeeService;
+import com.maksi362880.spring_boot_rest.entity.Employee;
+import com.maksi362880.spring_boot_rest.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

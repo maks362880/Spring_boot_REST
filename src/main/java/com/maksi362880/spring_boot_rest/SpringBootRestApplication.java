@@ -1,4 +1,4 @@
-package com.maksim.tebenkov.spring_boot_rest;
+package com.maksi362880.spring_boot_rest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

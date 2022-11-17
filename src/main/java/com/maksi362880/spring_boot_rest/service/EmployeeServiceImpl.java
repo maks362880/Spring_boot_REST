@@ -1,7 +1,7 @@
-package com.maksim.tebenkov.spring_boot_rest.service;
+package com.maksi362880.spring_boot_rest.service;
 
-import com.maksim.tebenkov.spring_boot_rest.dao.EmployeeDAO;
-import com.maksim.tebenkov.spring_boot_rest.entity.Employee;
+import com.maksi362880.spring_boot_rest.dao.EmployeeDAO;
+import com.maksi362880.spring_boot_rest.entity.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
