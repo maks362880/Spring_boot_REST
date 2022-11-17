@@ -1,4 +1,4 @@
-package com.maksi362880.spring_boot_rest;
+package com.maks362880.spring_boot_rest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

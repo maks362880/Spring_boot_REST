@@ -1,4 +1,4 @@
-package com.maksi362880.spring_boot_rest.entity;
+package com.maks362880.spring_boot_rest.entity;
 
 import javax.persistence.*;
 

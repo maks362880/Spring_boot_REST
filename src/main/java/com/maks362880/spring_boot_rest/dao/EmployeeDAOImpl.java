@@ -1,6 +1,6 @@
-package com.maksi362880.spring_boot_rest.dao;
+package com.maks362880.spring_boot_rest.dao;
 
-import com.maksi362880.spring_boot_rest.entity.Employee;
+import com.maks362880.spring_boot_rest.entity.Employee;
 import org.hibernate.Session;
 import org.hibernate.query.Query;
 import org.springframework.beans.factory.annotation.Autowired;
